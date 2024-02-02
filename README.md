@@ -1,6 +1,10 @@
-# Twilio Flex Project Template
+<a  href="https://www.connieconnect.com">
+<img  src="https://i.postimg.cc/MGd7M6Cp/connie-logo-white-thin-deja-Vu-Sans.png"  alt="Connie SaaS For Nonprofits"  width="250"  />
+</a>
 
-The _Flex Project Template_ is a starting point for Flex solutions of any size. It provides a methodology for managing all the key assets of a Twilio Flex solution:
+# Connie RTC Boilerplate Prototype V1.5
+
+The _Connie Boilerplate_ is a starting point for deploying an instance of the Connie digital communication platform for non-profitsd  solutions of any size. It provides a methodology for managing all the key assets of a Twilio Flex solution:
 
 - It can be used for large projects or simple standalone features
 - Many of the most common features requested by Flex customers [are already packaged in the template](https://twilio-professional-services.github.io/flex-project-template/feature-library/overview)
@@ -8,11 +12,7 @@ The _Flex Project Template_ is a starting point for Flex solutions of any size. 
 - Features can be turned on and off using an [adminstration panel](https://twilio-professional-services.github.io/flex-project-template/feature-library/admin-ui)
 - You can [deploy this solution and use it to build in just a few minutes](https://twilio-professional-services.github.io/flex-project-template/getting-started/install-template) by providing your account SID, API key, and API secret.
 
----
-
 ### [Flex Project Template Documentation &raquo;](https://twilio-professional-services.github.io/flex-project-template/)
-
----
 
 ## Why use this template?
 
