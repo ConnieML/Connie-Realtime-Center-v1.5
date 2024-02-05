@@ -2,25 +2,25 @@
 sidebar_label: Introduction
 sidebar_position: 0
 slug: /
-title: "Flex Project Template"
+title: "Connie Realtime Center"
 ---
 
-<img src="img/logos/flex-text-lightmode.png#gh-light-mode-only" width="275" alt="Twilio Flex" />
-<img src="img/logos/flex-text-darkmode.png#gh-dark-mode-only" width="275" alt="Twilio Flex" />
+<img src="img/logos/Connie-docs-text-lightmode.png#gh-light-mode-only" width="275" alt="Connie RTC" />
+<img src="img/logos/Connie-docs-text-darkmode.png#gh-dark-mode-only" width="275" alt="Connie RTC" />
 
-The _Flex Project Template_ is a starting point for Flex solutions of any size. It provides a methodology for managing all the key assets of a Twilio Flex solution:
+The _Connie Realtime Center Template_ is a starting point for all Connie digial communication and digital engagement solutions. It provides a methodology for managing all Connie assets, workflow and integrations. It's also the current home for the Administrators, Supervisors and Agent user manuals.
 
-- It can be used for large projects or simple standalone features
-- Many of the most common features requested by Flex customers [are already packaged in the template](/feature-library/overview)
+- These documents apply for any installation type.
+- Many of the most common features requested by Connie customers [are already packaged in the template](/feature-library/overview)
 - Each feature is self-contained and easily removed if desired  
 - Features can be turned on and off using an [adminstration panel](/feature-library/admin-ui)
 - You can [deploy this solution and use it to build in just a few minutes](/getting-started/install-template) by providing your account SID, API key, and API secret.
 
 ## Why use this template?
 
-The Twilio platform is a robust suite of tools that can be orchestrated together to create incredible custom solutions. The biggest challenge is how to automatically configure and orchestrate these different tools together from an single source of truth. This is the problem the template aims to resolve.
+The Connie platform is a robust suite of tools that can be orchestrated together to create incredible custom solutions. The biggest challenge is how to automatically configure and orchestrate these different tools together from an single source of truth. This is the problem the template aims to resolve.
 
-The template provides a means to manage all of the assets which make up a Flex solution. This aggregates the work _Twilio Professional Services_ have done to show how different features can be robustly implemented on the Flex platform. It can take new Flex developers from 0 to 100 by putting them right in the position of developing feature enhancements instead of worrying about how to manage assets and dependencies on the platform.
+The template provides a means to manage all of the assets which make up a digital communication platform solution. This aggregates the work _Connie Professional Services_ have done to show how different features can be robustly implemented on the Connie platform. It can take new Flex developers from 0 to 100 by putting them right in the position of developing feature enhancements instead of worrying about how to manage assets and dependencies on the platform.
 
 Furthermore, with the rich library of examples and conventions, developers can quickly see how to approach different problems on the platform by seeing working code that they can easily reverse engineer.
 
