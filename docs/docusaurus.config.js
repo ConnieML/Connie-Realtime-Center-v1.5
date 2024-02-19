@@ -5,20 +5,20 @@ const { github: lightCodeTheme, dracula: darkCodeTheme } = require("prism-react-
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Connie RTC Documents",
+  title: "The Connie Project Template",
   tagline: "Connie Professional Services",
-  favicon: "img/logos/connie-teams.png",
+  favicon: "img/logos/flex.png",
 
   // Set the production url of your site here
-  url: "https://connieml.github.io/Connie-Realtime-Center-v1.5",
+  url: "https://twilio-professional-services.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/connie-rtc-project-template/",
+  baseUrl: "/flex-project-template/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "connie-professional-services", // Usually your GitHub org/user name.
-  projectName: "connie-rtc-project-template", // Usually your repo name.
+  organizationName: "twilio-professional-services", // Usually your GitHub org/user name.
+  projectName: "flex-project-template", // Usually your repo name.
   trailingSlash: false,
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -78,14 +78,14 @@ const config = {
       // Replace with your project's social card
       image: "img/docusaurus-social-card.jpg",
       navbar: {
-        title: "Connie RTC Project Template",
+        title: "Flex Project Template",
         logo: {
-          alt: "Connie RTC Logo",
-          src: "img/logos/connie-teams.png",
+          alt: "Twilio Flex Logo",
+          src: "img/logos/flex.png",
         },
         items: [
           {
-            href: "https://twilio-professional-services.github.io",
+            href: "https://github.com/twilio-professional-services/flex-project-template",
             label: "GitHub",
             position: "right",
           },
@@ -95,15 +95,15 @@ const config = {
         style: "dark",
         links: [
           {
-            title: "Connie RTC Docs",
+            title: "Twilio Docs",
             items: [
               {
-                label: "Connie RTC Developer Docs",
-                href: "https://twilio-professional-services.github.io",
+                label: "Twilio Flex Docs",
+                href: "https://www.twilio.com/docs/flex",
               },
               {
-                label: "Connie RTC User Docs",
-                href: "https://twilio-professional-services.github.io",
+                label: "Flex Developer Docs",
+                href: "https://www.twilio.com/docs/flex/developer",
               },
             ],
           },
@@ -112,12 +112,12 @@ const config = {
             items: [
               {
                 label: "GitHub",
-                href: "https://twilio-professional-services.github.io",
+                href: "https://github.com/twilio-professional-services/flex-project-template",
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} American Society On Aging, Inc.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Twilio, Inc.`,
       },
       prism: {
         theme: lightCodeTheme,
