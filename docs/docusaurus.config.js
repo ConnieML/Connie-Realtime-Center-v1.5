@@ -10,7 +10,7 @@ const config = {
   favicon: "img/logos/flex.png",
 
   // Set the production url of your site here
-  url: "https://twilio-professional-services.github.io",
+  url: "https://connieml.github.io/Connie-Realtime-Center-v1.5",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/flex-project-template/",
