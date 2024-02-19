@@ -7,7 +7,7 @@ import AdminUiService from './AdminUiService';
 
 const acronyms = ['id', 'ui', 'sip', 'pstn', 'sms', 'crm', 'sla', 'cbm', 'url'];
 const hiddenFeatures = ['admin_ui'];
-const docsBaseUrl = 'https://twilio-professional-services.github.io/flex-project-template';
+const docsBaseUrl = 'https://connieml.github.io/Connie-Realtime-Center-v1.5';
 
 // String to identify the 'common' feature
 // Explicitly a value that is invalid per the 'add-feature' script
