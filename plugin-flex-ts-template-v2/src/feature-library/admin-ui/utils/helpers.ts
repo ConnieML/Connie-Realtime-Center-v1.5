@@ -7,6 +7,8 @@ import AdminUiService from './AdminUiService';
 
 const acronyms = ['id', 'ui', 'sip', 'pstn', 'sms', 'crm', 'sla', 'cbm', 'url'];
 const hiddenFeatures = ['admin_ui'];
+
+const docsBaseUrl = 'https://connieml.github.io/Connie-Realtime-Center-v1x5/';
 const docsBaseUrl = 'https://connieml.github.io/Connie-Realtime-Center-v1x5/';
 
 // String to identify the 'common' feature
